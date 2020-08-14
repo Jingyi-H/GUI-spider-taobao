@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\experiments_with_python\\chp04",
+  "password": false,
+  "pid": 23604,
+  "port": 8890,
+  "secure": false,
+  "token": "00f92cf68756c8120a4de27ac906c3de848493b2d9b76c24",
+  "url": "http://localhost:8890/"
+}

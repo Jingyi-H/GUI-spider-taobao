@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "D:\\workspace",
+  "password": false,
+  "pid": 8420,
+  "port": 8888,
+  "secure": false,
+  "token": "5b7de622704d60ac8ad0619b350400a0e363d67c70af24af",
+  "url": "http://localhost:8888/"
+}

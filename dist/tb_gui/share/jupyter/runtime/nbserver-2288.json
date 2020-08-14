@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "E:\\quant",
+  "password": false,
+  "pid": 2288,
+  "port": 8890,
+  "secure": false,
+  "token": "b0fdaae3b96479000fa8dcda791de031947f34bedb898b40",
+  "url": "http://localhost:8890/"
+}
